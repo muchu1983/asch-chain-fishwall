@@ -1,0 +1,14 @@
+{
+  "name": "fishwall",
+  "link": "https://bennu.tw/asch/chain/assets/fishwall.zip",
+  "desc": "collective intelligence on blockchain",
+  "icon": "https://bennu.tw/asch/chain/assets/fishwall-icon.png",
+  "delegates": [
+    "84301a3e9520c4c5554b687142568ef268f13e50e2809e891892ab8f906e45d9",
+    "c337c8aa83d799f4e4500a59a0c3cd82318ad550aaf4cb35d932db7109f8e806",
+    "5840607e7511042f82e3dc18eda54fdddcdabbc98de79ad9d0abd531ba1cef65",
+    "910e7c2edd5e3fc74f2d21b7ffe154e5bbbf67bf7759a1f1e320cdbba736c8e0",
+    "963663b875c82d15a9a8bd57547de323b9c417421b929831a7a04d3aced9f08a"
+  ],
+  "unlockDelegates": 3
+}
