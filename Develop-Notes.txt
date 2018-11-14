@@ -1,4 +1,0 @@
-﻿[solved] chain not ready
-    cd localnet-1.4.5/
-    rm -rf node_modules/asch-sandbox
-    npm install asch-sandbox
