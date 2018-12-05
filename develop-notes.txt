@@ -5,6 +5,13 @@
 #git pull
 #node build linux localnet
 
+deploy chain:
+#cd asch-chain-fishwall/
+#../asch-cli/bin/asch-cli -H 127.0.0.1 -P 4096 registerchain -e "dinosaur oval skill engine park lesson lake tool view pony cabbage bunker" -f chain.json 
+#cp -r asch-chain-fishwall/ localnet-folder/chains/
+#mv localnet-folder/chains/asch-chain-fishwall/ localnet-folder/chains/fishwall/
+#./aschd restart
+
 [solved] chain not ready
     cd localnet-1.4.5/
     rm -rf node_modules/asch-sandbox
