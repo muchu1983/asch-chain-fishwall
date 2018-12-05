@@ -1,4 +1,11 @@
-﻿[solved] chain not ready
+﻿build:
+#cd asch/
+#git switch master
+#rm -rf build/*
+#git pull
+#node build linux localnet
+
+[solved] chain not ready
     cd localnet-1.4.5/
     rm -rf node_modules/asch-sandbox
     npm install asch-sandbox
