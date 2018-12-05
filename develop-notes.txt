@@ -1,6 +1,6 @@
 ﻿build:
 #cd asch/
-#git switch master
+#git checkout master
 #rm -rf build/*
 #git pull
 #node build linux localnet
